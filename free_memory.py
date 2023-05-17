@@ -1,5 +1,5 @@
 def main():
-    pass
+    print("margin conflicts")
 
 
 if __name__ == "__main__":
